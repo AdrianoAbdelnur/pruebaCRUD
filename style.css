@@ -1,0 +1,16 @@
+.tablecontainer {
+    width: 80%;
+    
+}
+
+header {
+    background-color: gray;
+    color: white;
+    font-size: 30px;
+    font-weight: 700;
+    text-align: center;
+    height: 10rem;
+    padding: 3.5rem;
+}
+
+
